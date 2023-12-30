@@ -1,4 +1,4 @@
-# umamusume-localify-android
+# umamusume-localify-android 111
 Android port of [umamusume-localify](https://github.com/GEEKiDoS/umamusume-localify)
 
 [한국어](README.ko-KR.md)
